@@ -1,0 +1,27 @@
+﻿cmake_minimum_required(VERSION 3.10)
+project(CPPM5_Homework10_2)
+add_executable(homework10_2 
+CPPM5_Homework_6_3.cpp
+EquilateralTriangle.cpp
+EquilateralTriangle.h
+Figure.cpp
+Figure.h
+FigureUtils.cpp
+FigureUtils.h
+IsoScelesTriangle.cpp
+IsoScelesTriangle.h
+Parallelogram.cpp
+Parallelogram.h
+Quadrangle.cpp
+Quadrangle.h
+Rectangle.cpp
+Rectangle.h
+Rhombus.cpp
+Rhombus.h
+RightTriangle.cpp
+RightTriangle.h
+Square.cpp
+Square.h
+Triangle.cpp
+Triangle.h
+)
