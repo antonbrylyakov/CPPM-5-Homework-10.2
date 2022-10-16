@@ -23,5 +23,4 @@ RightTriangle.h
 Square.cpp
 Square.h
 Triangle.cpp
-Triangle.h
-)
+Triangle.h)
